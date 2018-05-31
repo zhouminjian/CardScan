@@ -7,5 +7,5 @@
 5.代码中有轻量注释，助于理解；<br>
 6.希望有人能够改善它，让它更方便使用。<br>
 如有其他疑问可email:1105849247@qq.com<br>
-项目地址：<br>
+项目地址：
 [传送门](http://wx.yadongtextile.com/web/mingpian/public)
