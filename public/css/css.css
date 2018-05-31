@@ -1,0 +1,164 @@
+.title-span{
+	margin-left:70px;
+	font-size: 32px;
+	font-weight: bold;
+	color: blue;
+	text-shadow: 5px 5px 6px #ababab;
+	/*border: 1px solid red ;*/
+}
+.logo{
+	/*position: fixed;*/
+	margin-top:-10px;
+	width:60px;
+	height:60px;
+	/*border: 1px solid red;*/
+}
+input[type="date"]:before{
+    content: attr(placeholder);
+    color:#aaa;
+}
+
+.div4{
+	width:330px;
+	margin:30px auto 0 auto;
+}
+.div5{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	height: 30px;
+	width: 100%;
+	background-color: #d0d0d0;
+}
+.border-div{
+	border-top: #808080 1px dashed;
+	overflow: hidden;
+	height: 1px;
+}
+.label{
+	font-size: 17px;
+	font-weight: bold;
+	color:black;
+	/*border: 1px solid blue;*/
+}
+.file-input{
+	padding:8px auto;
+	width:180px;
+}
+button{
+	position: relative;
+	left: 200px;
+	width:80px;
+	margin-top: 5px;
+}
+.submit-input{
+	margin-left: 220px;
+	width:70px;
+}
+.text-p1{
+	font-size: 16px;
+	font-weight: bold;
+	color: red;
+}
+.text-p2{
+	font-size: 14px;
+	padding-left: 30px;
+	color: #808080;
+}
+.re-div{
+	position: relative;
+	width:300px;
+	margin: 40px auto;
+	padding: 10px;
+	border: 1px solid #bcbcbc;
+}
+.re-div p{
+	text-align:center;
+}
+.title-p{
+	font-size: 20px;
+	font-weight: bold;
+}
+.input-time{
+	width:100%;
+}
+.input-submit{
+	width: 80px;
+}
+.login-div{
+	position: relative;
+	width:300px;
+	margin:30px auto;
+	padding: 10px;
+	border: 1px solid #bcbcbc;
+}
+.sec-div{
+	width:80%;
+	position: relative;
+	margin: 10px auto;
+}
+.top-span{
+	position: relative;
+	left:80%;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.third-div{
+	margin-top:20px;
+}
+.search-div{
+	/*width:30%;
+	margin:0 auto;*/
+	border: 1px solid black;
+}
+.forth-div{
+	/*width:80%;*/
+	margin:0 auto;
+	/*border: 1px solid black;*/
+}
+.reul {
+    /*border:1px solid black;*/
+    padding:0px;
+    display:flex;
+    list-style:none;
+    flex-flow:row wrap;
+    }
+.reul li {
+    flex:1;
+    min-width:250px;
+    max-width:400px;
+    min-height:100px;
+    max-height: 200px;
+    padding:4px;
+    background:#ccc;
+    margin:4px;
+}
+.bwimg{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.fileinput-button {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.fileinput-button input{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    opacity: 0;
+    -ms-filter: 'alpha(opacity=0)';
+}
+#scanImg{
+	width: 40%;
+	height: 40%;
+	display: table-cell;
+    text-align: center;
+}
+div .dealImg{
+	width:120px;
+	margin: 10px auto;
+}

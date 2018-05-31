@@ -1,0 +1,8 @@
+首先要有服务号的appid和secret才能实现微信登录
+识别功能使用到了汉王云的接口，需要申请key
+页面路径都需要做小幅修改
+
+index首页路径：主机:端口号/mingpian/public
+admin首页路径：主机:端口号/mingpian/public/admin
+
+数据库两张表在根目录下
