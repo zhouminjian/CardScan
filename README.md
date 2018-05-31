@@ -8,5 +8,5 @@
 6.期待大家更加完善它，让它更方便使用。<br>
 框架：thinkphp5，前端bootstrap。<br>
 如有其他疑问可email:1105849247@qq.com<br>
-项目地址：
-[传送门](http://wx.yadongtextile.com/web/mingpian/public)
+关注微信公众号：亚东集团，底部第三个菜单中有名片识别前后台示例。<br>
+![公众号](http://www.yadongtextile.com/img/upimages/20171213165441139.jpg)
